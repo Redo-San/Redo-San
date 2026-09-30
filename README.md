@@ -1,11 +1,9 @@
 <div align="center">
 
-<h1 align="center">
-  <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rounded&color=0:f2f1fa,100:e4e1fb&height=200&section=header&text=RedoSan%20Authenticity&fontSize=46&fontColor=4a3fb8&fontAlignY=38&desc=Watermarking%20%C2%B7%20C2PA%20%C2%B7%20Steganography%20%C2%B7%20DID&descSize=16&descAlignY=64&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f0f1a,100:6c5ce7&height=200&section=header&text=RedoSan%20Authenticity&fontSize=46&fontColor=8a7bf0&fontAlignY=38&desc=Watermarking%20%C2%B7%20C2PA%20%C2%B7%20Steganography%20%C2%B7%20DID&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="RedoSan Authenticity" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="RedoSan Authenticity - watermarking, C2PA, steganography and decentralized identity" />
 </picture>
-</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1400&color=8a7bf0&center=true&vCenter=true&width=640&height=110&lines=Digital+Authenticity+Toolkit%0A63+Algorithms+%E2%80%A2%2020+Modules%0AWatermarking+%2B+C2PA+%2B+Steganography%0ADID+%2B+Certificates+%2B+Fingerprints&multiline=true" alt="Typing SVG: project tagline" />
 
