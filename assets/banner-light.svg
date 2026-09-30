@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 200" width="854" height="200" role="img" aria-label="RedoSan Authenticity - watermarking, C2PA, steganography and decentralized identity">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="854" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f2f1fa"/>
+      <stop offset="100%" stop-color="#e4e1fb"/>
+    </linearGradient>
+    <linearGradient id="ridge" x1="0" y1="0" x2="854" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6c5ce7"/>
+      <stop offset="100%" stop-color="#8f7fe8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#8f7fe8" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#8f7fe8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="854" height="200" fill="url(#bg)"/>
+
+  <ellipse cx="180" cy="48" rx="300" ry="118" fill="url(#glow)">
+    <animate attributeName="cx" values="180;674;180" dur="19s" repeatCount="indefinite"
+             calcMode="spline" keyTimes="0;0.5;1"
+             keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <animate attributeName="opacity" values="1;0.55;1" dur="19s" repeatCount="indefinite"
+             calcMode="spline" keyTimes="0;0.5;1"
+             keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+  </ellipse>
+
+  <path d="M0 0 L0 132 L36 134 L71 135 L107 136 L142 136 L178 134 L214 132 L249 130 L285 127 L320 124 L356 122 L391 121 L427 120 L463 121 L498 122 L534 124 L569 126 L605 128 L640 129 L676 130 L712 131 L747 130 L783 129 L818 127 L854 126 L854 200 L0 200 Z" fill="#6c5ce7" opacity="0.07">
+    <animate attributeName="d" values="M0 0 L0 132 L36 134 L71 135 L107 136 L142 136 L178 134 L214 132 L249 130 L285 127 L320 124 L356 122 L391 121 L427 120 L463 121 L498 122 L534 124 L569 126 L605 128 L640 129 L676 130 L712 131 L747 130 L783 129 L818 127 L854 126 L854 200 L0 200 Z;M0 0 L0 135 L36 135 L71 134 L107 131 L142 129 L178 126 L214 123 L249 121 L285 120 L320 120 L356 120 L391 122 L427 124 L463 126 L498 128 L534 130 L569 131 L605 131 L640 130 L676 129 L712 128 L747 126 L783 125 L818 125 L854 125 L854 200 L0 200 Z;M0 0 L0 132 L36 134 L71 135 L107 136 L142 136 L178 134 L214 132 L249 130 L285 127 L320 124 L356 122 L391 121 L427 120 L463 121 L498 122 L534 124 L569 126 L605 128 L640 129 L676 130 L712 131 L747 130 L783 129 L818 127 L854 126 L854 200 L0 200 Z" dur="17s" repeatCount="indefinite"
+             calcMode="spline" keyTimes="0;0.5;1"
+             keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  </path>
+
+  <path d="M0 0 L0 164 L36 168 L71 171 L107 171 L142 167 L178 162 L214 156 L249 150 L285 145 L320 144 L356 146 L391 150 L427 155 L463 160 L498 163 L534 163 L569 162 L605 159 L640 156 L676 153 L712 153 L747 156 L783 160 L818 165 L854 169 L854 200 L0 200 Z" fill="url(#ridge)" opacity="0.5">
+    <animate attributeName="d" values="M0 0 L0 164 L36 168 L71 171 L107 171 L142 167 L178 162 L214 156 L249 150 L285 145 L320 144 L356 146 L391 150 L427 155 L463 160 L498 163 L534 163 L569 162 L605 159 L640 156 L676 153 L712 153 L747 156 L783 160 L818 165 L854 169 L854 200 L0 200 Z;M0 0 L0 165 L36 165 L71 162 L107 157 L142 152 L178 147 L214 144 L249 144 L285 147 L320 152 L356 158 L391 164 L427 168 L463 170 L498 168 L534 165 L569 161 L605 157 L640 155 L676 155 L712 157 L747 160 L783 164 L818 165 L854 165 L854 200 L0 200 Z;M0 0 L0 164 L36 168 L71 171 L107 171 L142 167 L178 162 L214 156 L249 150 L285 145 L320 144 L356 146 L391 150 L427 155 L463 160 L498 163 L534 163 L569 162 L605 159 L640 156 L676 153 L712 153 L747 156 L783 160 L818 165 L854 169 L854 200 L0 200 Z" dur="17s" repeatCount="indefinite"
+             calcMode="spline" keyTimes="0;0.5;1"
+             keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  </path>
+
+  <path d="M0 164 L0 164 L36 168 L71 171 L107 171 L142 167 L178 162 L214 156 L249 150 L285 145 L320 144 L356 146 L391 150 L427 155 L463 160 L498 163 L534 163 L569 162 L605 159 L640 156 L676 153 L712 153 L747 156 L783 160 L818 165 L854 169 L854 169" fill="none" stroke="url(#ridge)" stroke-width="2"
+        stroke-linejoin="round" opacity="0.95">
+    <animate attributeName="d" values="M0 164 L0 164 L36 168 L71 171 L107 171 L142 167 L178 162 L214 156 L249 150 L285 145 L320 144 L356 146 L391 150 L427 155 L463 160 L498 163 L534 163 L569 162 L605 159 L640 156 L676 153 L712 153 L747 156 L783 160 L818 165 L854 169 L854 169;M0 165 L0 165 L36 165 L71 162 L107 157 L142 152 L178 147 L214 144 L249 144 L285 147 L320 152 L356 158 L391 164 L427 168 L463 170 L498 168 L534 165 L569 161 L605 157 L640 155 L676 155 L712 157 L747 160 L783 164 L818 165 L854 165 L854 165;M0 164 L0 164 L36 168 L71 171 L107 171 L142 167 L178 162 L214 156 L249 150 L285 145 L320 144 L356 146 L391 150 L427 155 L463 160 L498 163 L534 163 L569 162 L605 159 L640 156 L676 153 L712 153 L747 156 L783 160 L818 165 L854 169 L854 169" dur="17s" repeatCount="indefinite"
+             calcMode="spline" keyTimes="0;0.5;1"
+             keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  </path>
+
+  <text x="427" y="96" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="700" fill="#4a3fb8">RedoSan Authenticity</text>
+  <text x="427" y="136" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="16" font-weight="600" fill="#3d3499" opacity="1.0">Watermarking · C2PA · Steganography · DID</text>
+</svg>
