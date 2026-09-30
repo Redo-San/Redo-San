@@ -96,7 +96,7 @@ node dev-server.js           # local web app on :8080
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Redo-San&hide_border=true&background=f2f1fa&ring=4a3fb8&fire=4a3fb8&currStreakLabel=4a3fb8&sideLabels=1f2328&dates=6b7280">
-    <img height="168" src="https://streak-stats.demolab.com?user=Redo-San&hide_border=true&background=0F0F1A&ring=6c5ce7&fire=00e676&currStreakLabel=6c5ce7&sideLabels=8a7bf0&dates=9b9bb5" alt="Contribution streak" />
+    <img height="168" src="https://streak-stats.demolab.com?user=Redo-San&hide_border=true&background=0F0F1A&ring=6c5ce7&fire=00e676&currStreakNum=FFFFFF&currStreakLabel=6c5ce7&sideNums=FFFFFF&sideLabels=8a7bf0&dates=9b9bb5" alt="Contribution streak" />
   </picture>
   <br/>
   <picture>
