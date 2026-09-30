@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f2f1fa,100:e4e1fb&height=200&section=header&text=RedoSan%20Authenticity&fontSize=46&fontColor=4a3fb8&fontAlignY=38&desc=Watermarking%20%C2%B7%20C2PA%20%C2%B7%20Steganography%20%C2%B7%20DID&descSize=16&descAlignY=64&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,100:6c5ce7&height=200&section=header&text=RedoSan%20Authenticity&fontSize=46&fontColor=8a7bf0&fontAlignY=38&desc=Watermarking%20%C2%B7%20C2PA%20%C2%B7%20Steganography%20%C2%B7%20DID&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="RedoSan Authenticity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rounded&color=0:f2f1fa,100:e4e1fb&height=200&section=header&text=RedoSan%20Authenticity&fontSize=46&fontColor=4a3fb8&fontAlignY=38&desc=Watermarking%20%C2%B7%20C2PA%20%C2%B7%20Steganography%20%C2%B7%20DID&descSize=16&descAlignY=64&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f0f1a,100:6c5ce7&height=200&section=header&text=RedoSan%20Authenticity&fontSize=46&fontColor=8a7bf0&fontAlignY=38&desc=Watermarking%20%C2%B7%20C2PA%20%C2%B7%20Steganography%20%C2%B7%20DID&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="RedoSan Authenticity" />
 </picture>
 </h1>
 
@@ -130,8 +130,8 @@ _Based in Baghdad, Iraq._
 
 <h1 align="center">
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e4e1fb,100:f2f1fa&height=120&section=footer&text=GPL--2.0%20%C2%B7%20Everything%20stays%20on%20your%20machine&fontSize=22&fontColor=4a3fb8&fontAlignY=60&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:0f0f1a&height=120&section=footer&text=GPL--2.0%20%C2%B7%20Everything%20stays%20on%20your%20machine&fontSize=22&fontColor=8a7bf0&fontAlignY=60&animation=fadeIn" width="100%" alt="Footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rounded&color=0:e4e1fb,100:f2f1fa&height=120&section=footer&text=GPL--2.0%20%C2%B7%20Everything%20stays%20on%20your%20machine&fontSize=22&fontColor=4a3fb8&fontAlignY=60&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6c5ce7,100:0f0f1a&height=120&section=footer&text=GPL--2.0%20%C2%B7%20Everything%20stays%20on%20your%20machine&fontSize=22&fontColor=8a7bf0&fontAlignY=60&animation=fadeIn" width="100%" alt="Footer" />
 </picture>
 </h1>
 
